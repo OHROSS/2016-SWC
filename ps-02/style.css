@@ -1,22 +1,30 @@
 
 html {
-  font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
-  font-family: "Helvetica", sans-serif;
+  font-size: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+
 }
+
+p.sansserif {
+    font-family: Arial, Helvetica, sans-serif;}
 
 body {
   font-size: 60px;
-  font-family: "Helvetica", sans-serif;
+  font-family: "Arial", Helvetica, sans-serif;
   margin: 0 auto;
   max-width: 50em;
+
 }
+
+p.sansserif {
+    font-family: Arial, Helvetica, sans-serif;}
 
 h5 {
   font-size: 1000px;
 }
 
 h1 {
-  font-size: 70px;
+  font-size: 90px;
   font-family: "Helvetica", sans-serif;
   text-align: center;
   margin: 0;
