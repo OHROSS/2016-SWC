@@ -1,0 +1,20 @@
+body {
+  font-family: 'helvetica', sans-serif;
+  font-size: small;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+canvas
+{
+  background-color: hsl(0,0%,50%);
+  border-style: 0px solid ;
+  border-color: hsl(0,0%,70%);
+  width: auto;
+  height: 70%;
+}
