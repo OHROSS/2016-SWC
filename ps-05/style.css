@@ -18,6 +18,15 @@ body {
   max-width: 50em;
 }
 
+canvas
+{
+  background-color: hsl(0,0%,90%);
+  border-style: 0px solid ;
+  border-color: hsl(0,0%,70%);
+  width: auto;
+  height: 70%;
+}
+
 p.sansserif {
     font-family: Arial, Helvetica, sans-serif;}
 
