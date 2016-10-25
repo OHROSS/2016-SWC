@@ -50,20 +50,20 @@ OHROSS.drawTop = function(ctx) {
   // ctx.beginPath();
   // ctx.arc(horizontalCenter, 120, 120, 0, circleDegrees);
   // ctx.fill();
-  drawImage('finalhead.jpg', ctx, 0, 0);
+  drawImage('https://ohross.github.io/2016-SWC/ps-06/finalhead.jpg', ctx, 0, 0);
 };
 
 OHROSS.drawMiddle = function(ctx) {
   //OHROSS.drawArm(ctx, true);
   //OHROSS.drawArm(ctx, false);
   // draw the rest of the body...
-  drawImage('torso1.jpg', ctx, 0, 270);
+  drawImage('https://ohross.github.io/2016-SWC/ps-06/torso1.jpg', ctx, 0, 270);
 };
 
 OHROSS.drawBottom = function(ctx) {
   //OHROSS.drawLeg(ctx, true);
   //OHROSS.drawLeg(ctx, false);
-  drawImage('legs.JPG', ctx, 0, 540);
+  drawImage('https://ohross.github.io/2016-SWC/ps-06/legs.JPG', ctx, 0, 540);
 };
 
 OHROSS.drawCorpse = function(ctx) {
