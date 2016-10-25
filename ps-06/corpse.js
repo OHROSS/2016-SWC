@@ -63,7 +63,7 @@ OHROSS.drawMiddle = function(ctx) {
 OHROSS.drawBottom = function(ctx) {
   //OHROSS.drawLeg(ctx, true);
   //OHROSS.drawLeg(ctx, false);
-  drawImage('legs.jpg', ctx, 0, 540);
+  drawImage('legs.JPG', ctx, 0, 540);
 };
 
 OHROSS.drawCorpse = function(ctx) {
