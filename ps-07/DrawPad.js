@@ -4,7 +4,7 @@ var draw = function(x,y){
 };
 
 var mouseMoveHandler = function(event){
-  draw(event.pageX,event.pageY)
+  draw(event.pageX,event.pageY);
   $('#mouseInfo').text(event.pageX);
 };
 
