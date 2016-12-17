@@ -8,7 +8,6 @@ html {
 }
 
 body {
-  background-color: #e8e8e8;
   font-size: 10px;
   text-align: left;
   font-family: 'RailwayRegular';
@@ -55,3 +54,23 @@ h3 {
 img {
   display: inline-block;
 }
+
+.d3-tip {
+  line-height: 1.5;
+  padding: 8px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 0px;
+  text-align: center;
+}
+
+
+.q0-9 { fill:#b2182b; }
+  .q1-9 { fill:#d6604d; }
+  .q2-9 { fill:#f4a582; }
+  .q3-9 { fill:#fddbc7; }
+  .q4-9 { fill:#f7f7f7; }
+  .q5-9 { fill:#d1e5f0; }
+  .q6-9 { fill:#92c5de; }
+  .q7-9 { fill:#4393c3; }
+  .q8-9 { fill:#2166ac; }
